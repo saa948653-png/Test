@@ -29,7 +29,7 @@ export default function LoginPage() {
         
         <div className="relative z-10 flex items-center gap-2 font-bold text-3xl">
           <div className="w-10 h-10 bg-white rounded-xl flex items-center justify-center text-indigo-600">S</div>
-          StudyFlow Pro
+          Learner's Hope 
         </div>
 
         <div className="relative z-10 max-w-lg space-y-6">
