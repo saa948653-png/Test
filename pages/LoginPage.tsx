@@ -125,7 +125,7 @@ export default function LoginPage() {
 
           <div className="text-center space-y-4 pt-4">
             <p className="text-sm text-slate-500 font-medium">
-              Don't have an account? <button className="text-indigo-600 font-bold hover:underline">Create Account</button>
+              Don't have an account? <button className="text-indigo-600 font-bold hover:underline">Create New Account</button>
             </p>
             <div className="flex items-center gap-4 text-slate-300">
               <div className="h-px bg-slate-200 flex-1"></div>
