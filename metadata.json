@@ -1,0 +1,8 @@
+{
+  "name": "StudyFlow Pro",
+  "description": "A professional-grade EdTech platform for secure online exams, advanced performance analytics, and AI-powered study tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
